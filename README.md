@@ -18,4 +18,8 @@ i will explain Melt stub for whose who dont know Melt stub is a feature in Omani
 
 AntiVM explainasion its basically self explaining it detects a VM and blocks it from Running not tested tho
 
+WDEX also named Windows Defender Exlcusion adds a Exclusion to Windows Defender not tested YET 
+
+This rat will continuely modified until i say im bored
+
 THIS IS RAT IS NOT FUD AND SHOULD NOT BE FUD

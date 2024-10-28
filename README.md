@@ -22,4 +22,6 @@ WDEX also named Windows Defender Exlcusion adds a Exclusion to Windows Defender 
 
 This rat will continuely modified until i say im bored
 
+This is a Installer and isnt the Source code
+
 THIS IS RAT IS NOT FUD AND SHOULD NOT BE FUD
